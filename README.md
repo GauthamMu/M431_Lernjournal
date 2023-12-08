@@ -17,3 +17,8 @@ Sonst wird der Lehrer schnell herausfinden, dass ich nur ein kurzes Tutorial bef
 ## 01.12.2023:
 
 Heute war ein freier Tag an der TBZ, wir hatten keine Schule. 
+
+## 08.12.2023:
+
+Mit dem Spiel bin ich noch nicht sehr weit, da mir nicht in Sinn kam, was ich dort überhaupt schreiben soll. 
+Ich hoffe, das heute ändern zu können. 
