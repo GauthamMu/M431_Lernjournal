@@ -4,7 +4,7 @@ Lernjournal für das Modul 431
 ## 17.11.2023:
 
 Heute war Modulstart bei unserem neuen Klassenlehrer Herr Kälin. Wir haben das Informieren von 
-IPERKA. Ich habe heute mein Projekt gestartet mit einem Hilfstutorial, dass mir sehr geholfen hat, 
+IPERKA. Ich habe heute mein Projekt gestartet mit einem <a href="https://www.makeuseof.com/python-text-adventure-game-create/">Hilfstutorial</a>, dass mir sehr geholfen hat, 
 mich in meine Projektarbeit hineinzuversetzen. 
 Heute war ein erfolgreicher Tag, der mir den Start meines Projektes offiziell startet.
 
